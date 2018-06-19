@@ -1,1 +1,3 @@
 Adding important c.txt
+Checking conflicts, adding few more words
+Adding new line
